@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	825ee5ce55a34ce09f10523df8269a38	5adfa30025324322ae591db2e8608982	2024-02-08 04:00:19	2024-02-08 04:00:19	2024-01-31 10:59:00	f81a1026c2184752ad99be88dcee694f	Savings Account		Dividend Income				n	28/100	28/100	1970-01-01 00:00:00
+C	825ee5ce55a34ce09f10523df8269a38	7f82dd71cac7425580a67c64300e6e6c	2024-02-08 04:00:19	2024-02-08 04:00:19	2024-01-31 10:59:00	19cd0144a4154367b52e975f70af3df4	dividend		Dividend Income				n	-28/100	-28/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
