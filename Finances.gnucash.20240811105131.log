@@ -8,3 +8,10 @@ B	73e14acf33164d55919347adf2228249	344c7796dd894bd3857f4dbd3820f047	2024-08-11 1
 C	73e14acf33164d55919347adf2228249	85a59d4fb8b54ec0b2ac5dd4c505ed86	2024-08-11 17:51:47	2024-08-11 16:41:40	2024-08-05 10:59:00	5fb458e08b3f44cd8c8eb1926266338d	internet		Payment to Cox Communications	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Cox Comm Phx  Bank Draft 9100001			n	11622/100	11622/100	1970-01-01 00:00:00
 C	73e14acf33164d55919347adf2228249	344c7796dd894bd3857f4dbd3820f047	2024-08-11 17:51:47	2024-08-11 16:41:40	2024-08-05 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Payment to Cox Communications	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Cox Comm Phx  Bank Draft 9100001	ACH Debit - Cox Comm Phx  Bank Draft 9100001		c	-11622/100	-11622/100	2024-08-11 16:42:20
 ===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+D	b951396e77384fadaa85e8be75b7ec9d	ff296ae170634f2d9bd4acefa0a949cd	2024-08-11 19:04:23	2024-08-11 19:04:23	2024-08-11 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

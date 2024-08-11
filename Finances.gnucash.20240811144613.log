@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+B	dedd13340a9248ebad2ad2562d47dcc1	7f6e5289e6564dcc914e433590d7f3b3	2024-08-11 21:54:31	2024-08-11 16:41:40	2024-07-01 10:59:00	3323a52a32464e5db6926fdc8fbced8f	Imbalance-USD		Transfer To Credit Card -1928	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Credit Card -1928			n	37904/100	37904/100	1970-01-01 00:00:00
+B	dedd13340a9248ebad2ad2562d47dcc1	0cc28426dba143db97bf6c084dbbb156	2024-08-11 21:54:31	2024-08-11 16:41:40	2024-07-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Credit Card -1928	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Credit Card -1928	Transfer To Credit Card -1928		c	-37904/100	-37904/100	2024-08-11 16:42:20
+===== END
+===== START
+C	dedd13340a9248ebad2ad2562d47dcc1	7f6e5289e6564dcc914e433590d7f3b3	2024-08-11 21:54:31	2024-08-11 16:41:40	2024-07-01 10:59:00	3323a52a32464e5db6926fdc8fbced8f	Imbalance-USD		Transfer To Credit Card -1928	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Credit Card -1928			n	37904/100	37904/100	1970-01-01 00:00:00
+C	dedd13340a9248ebad2ad2562d47dcc1	0cc28426dba143db97bf6c084dbbb156	2024-08-11 21:54:31	2024-08-11 16:41:40	2024-07-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Credit Card -1928	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Credit Card -1928	Transfer To Credit Card -1928		c	-37904/100	-37904/100	2024-08-11 16:42:20
+===== END
