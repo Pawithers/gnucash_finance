@@ -1,0 +1,58 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+B	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:01:52	2024-08-11 16:41:40	2024-08-01 10:59:00	7602e2e17a804b4193d324c2da3f52ad	Mortgage Loan		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	120324/100	120324/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:01:52	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+C	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:02:44	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:02:44	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+C	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:02:44	2024-08-11 16:41:40	2024-08-01 10:59:00	57bea09ee1a9411aaae6bdd9cbc795c8	Orphan-USD		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	84160/100	84160/100	1970-01-01 00:00:00
+===== END
+===== START
+B	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	57bea09ee1a9411aaae6bdd9cbc795c8	Orphan-USD		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	84160/100	84160/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+C	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	64f62a5cdd484a45bb34183b4362e035	Interest		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	84160/100	84160/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:03:03	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+B	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	64f62a5cdd484a45bb34183b4362e035	Interest		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	84160/100	84160/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+C	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	64f62a5cdd484a45bb34183b4362e035	Interest		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	37527/100	37527/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+C	324f335c531f426d8a5155565924bf30	1c380f7312f64788bcf3c45bcf455ddd	2024-08-12 02:03:16	2024-08-11 16:41:40	2024-08-01 10:59:00	3323a52a32464e5db6926fdc8fbced8f	Imbalance-USD		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	46633/100	46633/100	1970-01-01 00:00:00
+===== END
+===== START
+B	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:04:25	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:04:25	2024-08-11 16:41:40	2024-08-01 10:59:00	64f62a5cdd484a45bb34183b4362e035	Interest		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	37527/100	37527/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	1c380f7312f64788bcf3c45bcf455ddd	2024-08-12 02:04:25	2024-08-11 16:41:40	2024-08-01 10:59:00	3323a52a32464e5db6926fdc8fbced8f	Imbalance-USD		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	46633/100	46633/100	1970-01-01 00:00:00
+B	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:04:25	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+C	324f335c531f426d8a5155565924bf30	3be891661d114783869d2d12b3ad7146	2024-08-12 02:05:19	2024-08-11 16:41:40	2024-08-01 10:59:00	44e62de6d4584063a29e51d2b286354e	Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36164/100	36164/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	a7fc91dcbc824f9b98c350cb2213a98a	2024-08-12 02:05:19	2024-08-11 16:41:40	2024-08-01 10:59:00	64f62a5cdd484a45bb34183b4362e035	Interest		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	37527/100	37527/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	1c380f7312f64788bcf3c45bcf455ddd	2024-08-12 02:05:19	2024-08-11 16:41:40	2024-08-01 10:59:00	57af0c9d6678493a9e63871c4089d09d	Principal Add.		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	15000/100	15000/100	1970-01-01 00:00:00
+C	324f335c531f426d8a5155565924bf30	933a8d0bb7f24f98937324ed7afe4135	2024-08-12 02:05:19	2024-08-11 16:41:40	2024-08-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+C	324f335c531f426d8a5155565924bf30	9785cf88abd14b5c8d30b47ab41caaca	2024-08-12 02:05:19	2024-08-11 16:41:40	2024-08-01 10:59:00	8a82287b7caa43b288f83bca008f5def	Escrow		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	31633/100	31633/100	1970-01-01 00:00:00
+===== END
+===== START
+B	03c688ffe64e48b88d30decf4024aaef	918bf4c7867b497b8f9a37e654e2efc4	2024-08-12 02:06:29	2024-08-11 16:41:40	2024-07-01 10:59:00	7602e2e17a804b4193d324c2da3f52ad	Mortgage Loan		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	120324/100	120324/100	1970-01-01 00:00:00
+B	03c688ffe64e48b88d30decf4024aaef	531c6f11ee714931b2fd8df2f4727d99	2024-08-12 02:06:29	2024-08-11 16:41:40	2024-07-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+===== END
+===== START
+C	03c688ffe64e48b88d30decf4024aaef	918bf4c7867b497b8f9a37e654e2efc4	2024-08-12 02:06:29	2024-08-11 16:41:40	2024-07-01 10:59:00	c1a75babbea345e8b2348dec32de443b	Mortgage Principal		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	36052/100	36052/100	1970-01-01 00:00:00
+C	03c688ffe64e48b88d30decf4024aaef	531c6f11ee714931b2fd8df2f4727d99	2024-08-12 02:06:29	2024-08-11 16:41:40	2024-07-01 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage	Transfer To Mortgage		c	-120324/100	-120324/100	2024-08-11 16:42:20
+C	03c688ffe64e48b88d30decf4024aaef	75dbf5247fad47c291f01aa2ff378d4d	2024-08-12 02:06:29	2024-08-11 16:41:40	2024-07-01 10:59:00	3323a52a32464e5db6926fdc8fbced8f	Imbalance-USD		Transfer To Mortgage	OFX ext. info: |Trans type:Generic debit|Memo:Transfer To Mortgage			n	84272/100	84272/100	1970-01-01 00:00:00
+===== END
