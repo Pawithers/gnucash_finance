@@ -1,0 +1,42 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+D	25b4ebfd2dcc4d07a1e5f633e18d4c02	a8f22b7719e447b296f1f3aec0904c2d	2024-08-18 21:06:25	2024-08-18 21:06:25	2024-08-07 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Raytheon Company Deposit	OFX ext. info: |Trans type:Generic credit|Memo:Deposit Raytheon Company Direct Dep	Deposit Raytheon Company Direct Dep		n	252757/100	252757/100	1970-01-01 00:00:00
+===== END
+===== START
+C	23e29d7a1d45409c98a5ccd672d9e5b2	3147933c3c494166bad33424fabade22	2024-08-18 21:06:31	2024-08-18 21:06:25	2024-08-15 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426	ACH Debit - Usaa Fsb  Icpayment 31407426		c	-33536/100	-33536/100	2024-08-18 21:06:31
+C	23e29d7a1d45409c98a5ccd672d9e5b2	0e9f74c621144729b8f82e05c9f7163a	2024-08-18 21:06:31	2024-08-18 21:06:25	2024-08-15 10:59:00	afe29b9815264ab1bdb84bb218ad1d54	Auto Insurance		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426			n	33536/100	33536/100	1970-01-01 00:00:00
+===== END
+===== START
+C	669c6fc9506e483f8be967b419511246	10a520255e3e4e2fb2b70d59cff200a3	2024-08-18 21:06:31	2024-08-18 21:06:25	2024-08-16 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		Deposit B6481 Basis Educ Dir Dep	OFX ext. info: |Trans type:Generic credit|Memo:Deposit B6481 Basis Educ Dir Dep	Deposit B6481 Basis Educ Dir Dep		c	140728/100	140728/100	2024-08-18 21:06:31
+C	669c6fc9506e483f8be967b419511246	85e0d07838a84588b1b81f724ee4dcb6	2024-08-18 21:06:31	2024-08-18 21:06:25	2024-08-16 10:59:00	fdc7f1bbcc004a4c96981c63fc1d9e7c	Salary (Spouse)		Deposit B6481 Basis Educ Dir Dep	OFX ext. info: |Trans type:Generic credit|Memo:Deposit B6481 Basis Educ Dir Dep			n	-140728/100	-140728/100	1970-01-01 00:00:00
+===== END
+===== START
+B	23e29d7a1d45409c98a5ccd672d9e5b2	0e9f74c621144729b8f82e05c9f7163a	2024-08-18 21:08:22	2024-08-18 21:06:25	2024-08-15 10:59:00	afe29b9815264ab1bdb84bb218ad1d54	Auto Insurance		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426			n	33536/100	33536/100	1970-01-01 00:00:00
+B	23e29d7a1d45409c98a5ccd672d9e5b2	3147933c3c494166bad33424fabade22	2024-08-18 21:08:22	2024-08-18 21:06:25	2024-08-15 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426	ACH Debit - Usaa Fsb  Icpayment 31407426		c	-33536/100	-33536/100	2024-08-18 21:06:31
+===== END
+===== START
+C	23e29d7a1d45409c98a5ccd672d9e5b2	0e9f74c621144729b8f82e05c9f7163a	2024-08-18 21:08:55	2024-08-18 21:06:25	2024-08-15 10:59:00	2a747c08f0a34e0594789b7cdc8d292b	Principal		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426			n	25014/100	25014/100	1970-01-01 00:00:00
+C	23e29d7a1d45409c98a5ccd672d9e5b2	3147933c3c494166bad33424fabade22	2024-08-18 21:08:55	2024-08-18 21:06:25	2024-08-15 10:59:00	5f8cd3d7d07f4e76916a760d36c0523b	Checking Account		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426	ACH Debit - Usaa Fsb  Icpayment 31407426		c	-33536/100	-33536/100	2024-08-18 21:06:31
+C	23e29d7a1d45409c98a5ccd672d9e5b2	307ed699bd65404aae085016c84349b6	2024-08-18 21:08:55	2024-08-18 21:06:25	2024-08-15 10:59:00	7d1c37c295d641c1837ee449ce970ab2	Interest		USAA	OFX ext. info: |Trans type:Generic debit|Memo:ACH Debit - Usaa Fsb  Icpayment 31407426			n	8522/100	8522/100	1970-01-01 00:00:00
+===== END
